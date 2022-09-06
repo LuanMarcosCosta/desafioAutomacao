@@ -1,0 +1,7 @@
+runner\RunCucumberTest.class
+support\Utils.class
+runner\RunBase.class
+pages\CadastroPage.class
+runner\RunBase$Browser.class
+steps\CadastroStep.class
+runner\RunBase$1.class
