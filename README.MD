@@ -20,7 +20,7 @@
 ## Relatório de Testes:
 
 <p align="center">
-    <img src="src/Assets/ToReadme/verificaRelatorio.gif">
+    <img src="src/assets/toReadme/verificaRelatorio.gif">
 </p>
 
 ##
@@ -29,6 +29,6 @@
 
 
 <p align="center">
-    <img src="src/assets/ToReadme/geraRelatorio.gif">
+    <img src="src/assets/toReadme/geraRelatorio.gif">
 </p>
 
